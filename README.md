@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surajit Das</h1>
 <h3 align="center">Curious about developments in Machine Learning and also coding in general !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajitdas1991&label=Profile%20views&color=0e75b6&style=flat" alt="surajitdas1991" /> </p>
-
 - 📫 How to reach me **dsurajitd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
